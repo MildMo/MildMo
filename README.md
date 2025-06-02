@@ -51,9 +51,3 @@
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="90" height="40"/>
   </a>
 </p>
-
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=junsu&show_icons=true&locale=en" alt="junsu" />
-</p>
